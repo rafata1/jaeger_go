@@ -1,4 +1,4 @@
 # templateOfService
 
-* step 1: make generate-api-docs
-* step 2: make run
+* step 1: swag init 
+* step 2: go run main.go
